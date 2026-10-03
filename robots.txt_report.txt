@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /api/
+
+Host: https://www.dancity.app
+Sitemap: https://www.dancity.app/sitemap.xml

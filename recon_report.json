@@ -1,0 +1,104 @@
+{
+    "target": {
+        "url": "https://dancity.app",
+        "final_url": "https://www.dancity.app",
+        "domain": "www.dancity.app",
+        "protocol": "https",
+        "status": 200
+    },
+    "ip_addresses": [
+        "188.114.96.4",
+        "188.114.97.4"
+    ],
+    "dns": {
+        "hostname": "www.dancity.app",
+        "aliases": [],
+        "addresses": [
+            "188.114.96.4",
+            "188.114.97.4"
+        ]
+    },
+    "subdomains": [
+        "www.dancity.app"
+    ],
+    "server_information": {
+        "Server": "cloudflare",
+        "X-Powered-By": "Next.js"
+    },
+    "technologies": [
+        "Next.js",
+        "React"
+    ],
+    "website_urls": {
+        "internal_urls": [
+            "https://dancity.app",
+            "https://dancity.app/",
+            "https://dancity.app/about",
+            "https://dancity.app/cdn-cgi/l/email-protection",
+            "https://dancity.app/download",
+            "https://dancity.app/features",
+            "https://dancity.app/help",
+            "https://dancity.app/privacy-policy",
+            "https://dancity.app/terms"
+        ],
+        "external_domains": [
+            "app.dancity.app",
+            "onelink.to"
+        ]
+    },
+    "javascript_files": [
+        "/_next/static/chunks/0e762574-ca846024b5303b10.js",
+        "/_next/static/chunks/105-39010b78f8ae709b.js",
+        "/_next/static/chunks/30a37ab2-accad0274cbffc69.js",
+        "/_next/static/chunks/361-30ea4eb80be9e4e7.js",
+        "/_next/static/chunks/397-e982f5b4074c8bd4.js",
+        "/_next/static/chunks/3d47b92a-437f8d678119db97.js",
+        "/_next/static/chunks/433-dd05237ee23d5d7e.js",
+        "/_next/static/chunks/4bd1b696-299743f5624cdabe.js",
+        "/_next/static/chunks/66ec4792-758b1189df5c1080.js",
+        "/_next/static/chunks/684-3fba02717d6f1d3b.js",
+        "/_next/static/chunks/766-2523ab464bd78f8a.js",
+        "/_next/static/chunks/8e1d74a4-9039a39ca46bded0.js",
+        "/_next/static/chunks/9c4e2130-ff9fe1a73dd465c0.js",
+        "/_next/static/chunks/app/layout-5a2dcd1cb2f3af4c.js",
+        "/_next/static/chunks/app/page-8f206c3de8bccb30.js",
+        "/_next/static/chunks/ee560e2c-d7d7eae5d7e0c489.js",
+        "/_next/static/chunks/main-app-f38f0d9153b95312.js",
+        "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+        "/_next/static/chunks/webpack-3d2bc7f518b374d2.js",
+        "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+        "https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"
+    ],
+    "robots_txt": "User-Agent: *\nAllow: /\nDisallow: /private/\nDisallow: /admin/\nDisallow: /api/\n\nHost: https://www.dancity.app\nSitemap: https://www.dancity.app/sitemap.xml\n",
+    "sitemap": [
+        "https://www.dancity.app",
+        "https://www.dancity.app/about",
+        "https://www.dancity.app/download",
+        "https://www.dancity.app/help"
+    ],
+    "http_headers": {
+        "Date": "Sat, 03 Oct 2026 22:42:50 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "Cache-Control": "s-maxage=31536000",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=8w1PkBSKdr2um1PAxLE8HQmnWASdmHO6uyPEduR2LC6JQVMyakaxLZBrbPGjPOxl4WmG%2FulOiVdqojLBiVe3pI0zMxY6s%2BAEFlOLXmLDoGsz6oeMSVahKy2Xn%2FBhQqGaFsY%3D\"}]}",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.googletagmanager.com https://connect.facebook.net https://static.ads-twitter.com https://snap.licdn.com https://static.hotjar.com https://www.clarity.ms; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https: blob:; media-src 'self' https:; connect-src 'self' https: wss:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self';",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "referrer-policy": "origin-when-cross-origin",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-dns-prefetch-control": "on",
+        "x-frame-options": "DENY",
+        "x-nextjs-cache": "HIT",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-powered-by": "Next.js",
+        "x-xss-protection": "1; mode=block",
+        "cf-cache-status": "DYNAMIC",
+        "Content-Encoding": "gzip",
+        "Server": "cloudflare",
+        "CF-RAY": "a44f765768d379cb-AMS"
+    }
+}
