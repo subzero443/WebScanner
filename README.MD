@@ -5,7 +5,11 @@ A lightweight **Python-based Web Reconnaissance CLI tool** for collecting public
 WebScanner is designed for authorized security assessments, security labs, learning, and reconnaissance**. It focuses on passive and low-impact information gathering rather than exploitation.
 
 ---
-#Screenshots
+## Screenshots
+<img src="Screenshot 2026-10-03 233226.png">
+<img src="Screenshot 2026-10-03 235236.png">
+<img src="Screenshot 2026-10-03 233306.png">
+<img src="Screenshot 2026-10-03 235216.png">
 
 ## 🚀 Features
 
