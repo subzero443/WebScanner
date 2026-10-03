@@ -2,9 +2,10 @@
 
 A lightweight **Python-based Web Reconnaissance CLI tool** for collecting publicly available information about a website.
 
-WebScanner is designed for **authorized security assessments, security labs, learning, and reconnaissance**. It focuses on passive and low-impact information gathering rather than exploitation.
+WebScanner is designed for authorized security assessments, security labs, learning, and reconnaissance**. It focuses on passive and low-impact information gathering rather than exploitation.
 
 ---
+#Screenshots
 
 ## 🚀 Features
 
