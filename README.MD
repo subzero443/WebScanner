@@ -577,29 +577,6 @@ For example:
 * The scanner does not recursively crawl an entire website.
 * A technology may be present without being detected.
 * HTTP headers may be intentionally hidden or modified by the server.
-
----
-
-# 🔮 Future Development
-
-Planned improvements include:
-
-* [ ] Professional colored CLI interface
-* [ ] Better technology fingerprinting
-* [ ] Improved subdomain analysis
-* [ ] HTML security reports
-* [ ] PDF report generation
-* [ ] Scan history
-* [ ] Multiple output formats
-* [ ] Security-header analysis
-* [ ] SSL/TLS information
-* [ ] Port/service information for authorized lab targets
-* [ ] React + Tailwind dashboard
-* [ ] Python API
-* [ ] AI-assisted reconnaissance analysis
-* [ ] Risk classification
-* [ ] Automated defensive recommendations
-
 ---
 
 ## 📜 License
